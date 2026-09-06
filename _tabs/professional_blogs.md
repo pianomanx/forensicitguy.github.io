@@ -1,6 +1,6 @@
 ---
 title: Professional Blogs
-icon: fas fa-file-text-o
+icon: fas fa-user-tie
 order: 4
 ---
 
