@@ -1,7 +1,7 @@
 ---
 title: About
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
 Hi, I'm Tony! I'm an information security professional with over 10 years of experience in enterprise IT services and a few years less targeted specifically to endpoint security services at Red Canary. I'm currently a Sr. Malware Analyst but have also occupied Detection Engineering and Intelligence Analyst roles. I use my experience maintaining web, database, virtualization, Active Directory, and core network services to hunt for malicious activity and educate professionals across many enterprise networks. I've completed a Masters of Digital Forensic Science from Champlain College and am a GIAC Certified Computer and Network Forensic Analyst.
